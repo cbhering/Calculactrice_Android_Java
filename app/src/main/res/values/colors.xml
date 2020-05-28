@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFDAECDF</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorArrierePlan">#FF858886</color>
+    <color name="colorTextField">#FF354ABA</color>
+    <color name="colorArrierePlanCalc">#FF2B2A2A</color>
+    <color name="arrierePlanCristauxLiquide">#B2B2B2</color>
+    <color name="cristauxLiquideTexte">#696969</color>
+    <color name="couleurBtn">#4C4C4C</color>
+    <color name="couleurBtnTexte">#FFFFFFFF</color>
+</resources>

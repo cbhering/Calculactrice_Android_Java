@@ -1,0 +1,2 @@
+rootProject.name='CBhering_PNM_TP3'
+include ':app'

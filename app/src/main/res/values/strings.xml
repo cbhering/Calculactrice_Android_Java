@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">CBhering_PNM_TP3</string>
+    <string name="nomPrenom" translatable="false">"Conrado Bhering"</string>
+    <string name="grasset" translatable="false">"Institut Grasset"</string>
+    <string name="nomProgramme">"DEC en Techniques de l’Informatique Profil Programmation Nouveaux Médias"</string>
+    <string name="nomCours">"Programmation Native Mobile"</string>
+    <string name="tpEtEnseignant">"TP3 - Remis à Pascal Guy"</string>
+    <string name="dateRemise" translatable="false">"2020-05-04"</string>
+    <string name="cristauxLiquide" translatable="false">0</string>
+    <string name="btnPlus" translatable="false">+</string>
+    <string name="btnSous" translatable="false">-</string>
+    <string name="btnDiv" translatable="false">÷</string>
+    <string name="btnMult" translatable="false">X</string>
+    <string name="btn7" translatable="false">7</string>
+    <string name="btn8" translatable="false">8</string>
+    <string name="btn9" translatable="false">9</string>
+    <string name="btn4" translatable="false">4</string>
+    <string name="btn5" translatable="false">5</string>
+    <string name="btn6" translatable="false">6</string>
+    <string name="btnEffacer" translatable="false">C</string>
+    <string name="btn1" translatable="false">1</string>
+    <string name="btn2" translatable="false">2</string>
+    <string name="btn3" translatable="false">3</string>
+    <string name="btnEgal" translatable="false">=</string>
+    <string name="btnPoint" translatable="false">.</string>
+    <string name="btnZero" translatable="false">0</string>
+</resources>
